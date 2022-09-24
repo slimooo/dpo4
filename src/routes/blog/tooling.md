@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: 'Le délégué à la protection des données : un peu plus qu’un « correspondant informatique et libertés » ?'
+title: 'Le délégué à la protection des données un peu plus qu’un « correspondant informatique et libertés » ?'
 slug: 'dpo-cil'
 description: 'Cette question résulte directement du nouveau dispositif du règlement européen du 27 avril 2016 relatif à la protection des données à caractère personnel, en vigueur à compter du 25 mai 2018. Il est inutile de souligner son importance pratique.'
 tags: []
