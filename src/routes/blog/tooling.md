@@ -118,7 +118,7 @@ Règl. nº 2016/679/UE, 27 avr. 2016, art. 39 (1), d) et e).
 
 (8) 
 
-Perray R., Protection des données personnelles : un correspondant pour quoi faire ?, 15 déc. 2005, <www.droit-technologies.org>.
+Perray R., Protection des données personnelles : un correspondant pour quoi faire ?, 15 déc. 2005, www.droit-technologies.org.
 
 (9) 
 
