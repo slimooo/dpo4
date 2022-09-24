@@ -1,28 +1,13 @@
 ---
 layout: blog
-title: 'SEO component'
-slug: 'seo'
-description: 'What is the SEO component and why do I need one?'
+title: 'RGPD : une étude sur les DPO est lancée par la DGEFP et l'AFPA'
+slug: 'etude-dpo'
+description: 'RGPD : une étude sur les DPO est lancée par la DGEFP et l'AFPA'
 tags: []
 publishDate: '2021-09-12'
 lastUpdated: '2021-09-12'
 ---
 
-You need to add a `<Seo />` component to any of the standalone pages to set the page title and description correctly.
-This information is automatically filled in based on values from the YAML frontmatter for blog posts.
-Page title and description are important for showing useful information when someone finds your website in a Google search, or shares a link on Twitter and you get a preview.
-At a minimum you need to import the SEO component and set the page title, description and path.
+« Les conditions d’exercice, les formes d’emploi ou d’activité, les parcours ou compétences détenues ou attendues pour l’exercice du métier de délégué ont besoin d’être bien compris afin d’apporter les réponses adéquates en termes d’emploi et de formation professionnelle », explique la DGEFP en introduction du questionnaire mis en ligne le 21 mars. Une enquête qui s’inscrit dans le cadre de l’étude confiée à l’Afpa par la DGEFP. 
 
-```jsx
-<script>
-	import Seo from '$lib/Seo.svelte';
-</script>
-
-<Seo
-	title="My awesome page"
-	description="A useful snippet of around 150 characters saying what this page is about"
-	path="/pathToThisPageIEFilename"
-/>
-```
-
-Optionally you can create a nice preview image for your page, and pass the path to that either to the SEO component like in `src/routes/index.md`, or by supplying the `openGraphImage` attribute in blog frontmatter as in `src/routes/blog/initial-setup.md`. The value should be the name of a 1200x630px PNG file, which lives in the `static` directory.
+Destiné aux délégués à la protection des données internes, mutualisés ou non, aux DPO externes, et aux professionnels chargés de la protection des données, le questionnaire sera accessible jusqu’au 15 avril. Visant à promouvoir le métier de DPO, l’initiative a notamment reçu le soutien de l’Autorité de régulation des données et de l’Association française des correspondants à la protection des données (AFCDP) et de la Cnil.
