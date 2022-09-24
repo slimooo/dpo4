@@ -17,7 +17,7 @@ La récente délibération de la Commission Nationale de l'Informatique et des L
 ## I.- À LA GENÈSE DE L'AFFAIRE : LA PLAINTE D'UN CITOYEN
 A l'instar de nombreuses autres sanctions émanant de l'autorité française de protection des données personnelles, c'est la plainte d'un citoyen, utilisateur du site de la société SERGIC qui est à l'origine de cette affaire.
 
-Constatant en mai 2018 un défaut de sécurité sur le site <www.sergic.com>, l'utilisateur a dans un premier temps le réflexe de prévenir l'éditeur du site. En l'absence de réponse et de mesures prises par ce dernier, l'internaute se tourne alors vers la CNIL en août de la même année.
+Constatant en mai 2018 un défaut de sécurité sur le site www.sergic.com, l'utilisateur a dans un premier temps le réflexe de prévenir l'éditeur du site. En l'absence de réponse et de mesures prises par ce dernier, l'internaute se tourne alors vers la CNIL en août de la même année.
 
 Cette plainte va donner lieu au déclenchement de deux contrôles successifs de la part de la CNIL en septembre 2018 : dans un premier temps en ligne, puis au sein des locaux de la société SERGIC. Ces contrôles permettront de confirmer les éléments portés à l'attention de la CNIL par le plaignant et d'en découvrir de nouveaux. Deux griefs vont être reprochés à l'entité contrôlée : un manquement à ses obligations de sécurité des traitements de données personnelles mis en œuvre, ainsi qu'une conservation excessive des dites données.
 
