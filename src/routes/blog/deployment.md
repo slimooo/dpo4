@@ -16,7 +16,7 @@ La désignation d'un DPO s'impose dans trois cas spécifiques (RGPD, art. 37, §
 Le non-respect de l'obligation de désigner un DPO peut être sanctionné par une amende pouvant atteindre 10 millions d'euros ou jusqu'à 2 % du chiffre d'affaires annuel mondial total de l'exercice précédent, le montant le plus élevé étant retenu (RGPD, art. 83, § 4-a).
 
 ## b) Modalités de désignation
-Un DPO peut être un membre du personnel, du responsable de traitement ou du sous-traitant (DPO interne), mais il peut aussi exercer ses missions sur la base d'un contrat de service (DPO externe).
+Un DPO peut être un membre du personnel, du responsable de traitement ou du sous-traitant ([DPO interne](https://www.cnil.fr/fr/cnil-direct/question/reglement-europeen-le-delegue-la-protection-des-donnees-peut-il-etre-une)), mais il peut aussi exercer ses missions sur la base d'un contrat de service ([DPO externe](https://indatable.com)).
 
 ### DPO interne
 Lorsqu'il est internalisé, le DPO peut être amené à effectuer d'autres missions et tâches, ce que le RGPD autorise. Il convient de veiller à ce que ces missions et tâches n'entraînent pas de conflit d'intérêts :
